@@ -49,7 +49,7 @@ export default function Footer() {
         comparison and education, not for flight operations. The production version plugs in the JPL Horizons API
         and LOLA digital elevation models for true horizon masking.
       </p>
-      <p className="mt-2 text-xs text-slate-600">LunaLight · NASA Space Apps Challenge 2026</p>
+      <p className="mt-2 text-xs text-slate-600"></p>
     </footer>
   );
 }
